@@ -180,7 +180,7 @@ class Calendar {
     let _letters = [];
     let result = {
       word,
-      wide: cangjie[''],
+      wide: cangjie['hand'],
       web: []
     };
     
@@ -196,19 +196,19 @@ class Calendar {
     if (n.length >= 2) {
       switch(n[1]) {
         case 'value':
-          result.wide = cangjie[''];
+          result.wide = cangjie['twenty'];
           break;
 
         case 'function':
-          result.wide = cangjie[''];
+          result.wide = cangjie['middle'];
           break;
 
         case 'behavior':
-          result.wide = cangjie[''];
+          result.wide = cangjie['day'];
           break;
 
         case 'result':
-          result.wide = cangjie[''];
+          result.wide = cangjie['dagger-axe'];
           break;
       }
     }
@@ -220,7 +220,7 @@ class Calendar {
     let _letters = [];
     let result = {
       word,
-      wide: cangjie[''],
+      wide: cangjie['moon'],
       web: []
     };
     
@@ -236,19 +236,19 @@ class Calendar {
     if (n.length >= 2) {
       switch(n[1]) {
         case 'value':
-          result.wide = cangjie[''];
+          result.wide = cangjie['heart'];
           break;
 
         case 'function':
-          result.wide = cangjie[''];
+          result.wide = cangjie['bow'];
           break;
 
         case 'behavior':
-          result.wide = cangjie[''];
+          result.wide = cangjie['mountain'];
           break;
 
         case 'result':
-          result.wide = cangjie[''];
+          result.wide = cangjie['people'];
           break;
       }
     }
@@ -260,7 +260,7 @@ class Calendar {
     let _letters = [];
     let result = {
       word,
-      wide: cangjie[''],
+      wide: cangjie['moon'],
       web: []
     };
     
@@ -276,19 +276,19 @@ class Calendar {
     if (n.length >= 2) {
       switch(n[1]) {
         case 'value':
-          result.wide = cangjie[''];
+          result.wide = cangjie['wood'];
           break;
 
         case 'function':
-          result.wide = cangjie[''];
+          result.wide = cangjie['big'];
           break;
 
         case 'behavior':
-          result.wide = cangjie[''];
+          result.wide = cangjie['mouth'];
           break;
 
         case 'result':
-          result.wide = cangjie[''];
+          result.wide = cangjie['gold'];
           break;
       }
     }
@@ -300,7 +300,7 @@ class Calendar {
     let _letters = [];
     let result = {
       word,
-      wide: cangjie[''],
+      wide: cangjie['water'],
       web: []
     };
     
@@ -316,19 +316,19 @@ class Calendar {
     if (n.length >= 2) {
       switch(n[1]) {
         case 'value':
-          result.wide = cangjie[''];
+          result.wide = cangjie['big'];
           break;
 
         case 'function':
-          result.wide = cangjie[''];
+          result.wide = cangjie['gold'];
           break;
 
         case 'behavior':
-          result.wide = cangjie[''];
+          result.wide = cangjie['bow'];
           break;
 
         case 'result':
-          result.wide = cangjie[''];
+          result.wide = cangjie['mountain'];
           break;
       }
     }
@@ -340,7 +340,7 @@ class Calendar {
     let _letters = [];
     let result = {
       word,
-      wide: cangjie[''],
+      wide: cangjie['water'],
       web: []
     };
     
@@ -356,19 +356,19 @@ class Calendar {
     if (n.length >= 2) {
       switch(n[1]) {
         case 'value':
-          result.wide = cangjie[''];
+          result.wide = cangjie['corpse'];
           break;
 
         case 'function':
-          result.wide = cangjie[''];
+          result.wide = cangjie['female'];
           break;
 
         case 'behavior':
-          result.wide = cangjie[''];
+          result.wide = cangjie['bamboo'];
           break;
 
         case 'result':
-          result.wide = cangjie[''];
+          result.wide = cangjie['wood'];
           break;
       }
     }
@@ -380,7 +380,7 @@ class Calendar {
     let _letters = [];
     let result = {
       word,
-      wide: cangjie[''],
+      wide: cangjie['water'],
       web: []
     };
     
@@ -396,19 +396,19 @@ class Calendar {
     if (n.length >= 2) {
       switch(n[1]) {
         case 'value':
-          result.wide = cangjie[''];
+          result.wide = cangjie['wood'];
           break;
 
         case 'function':
-          result.wide = cangjie[''];
+          result.wide = cangjie['middle'];
           break;
 
         case 'behavior':
-          result.wide = cangjie[''];
+          result.wide = cangjie['mountain'];
           break;
 
         case 'result':
-          result.wide = cangjie[''];
+          result.wide = cangjie['fire'];
           break;
       }
     }
@@ -420,7 +420,7 @@ class Calendar {
     let _letters = [];
     let result = {
       word,
-      wide: cangjie[''],
+      wide: cangjie['one'],
       web: []
     };
     
@@ -436,15 +436,15 @@ class Calendar {
     if (n.length >= 2) {
       switch(n[1]) {
         case 'function':
-          result.wide = cangjie[''];
+          result.wide = cangjie['earth'];
           break;
 
         case 'behavior':
-          result.wide = cangjie[''];
+          result.wide = cangjie['wood'];
           break;
 
         case 'result':
-          result.wide = cangjie[''];
+          result.wide = cangjie['female'];
           break;
       }
     }
@@ -456,7 +456,7 @@ class Calendar {
     let _letters = [];
     let result = {
       word,
-      wide: cangjie[''],
+      wide: cangjie['bow'],
       web: []
     };
     
@@ -472,19 +472,19 @@ class Calendar {
     if (n.length >= 2) {
       switch(n[1]) {
         case 'value':
-          result.wide = cangjie[''];
+          result.wide = cangjie['water'];
           break;
 
         case 'function':
-          result.wide = cangjie[''];
+          result.wide = cangjie['middle'];
           break;
 
         case 'behavior':
-          result.wide = cangjie[''];
+          result.wide = cangjie['predict'];
           break;
 
         case 'result':
-          result.wide = cangjie[''];
+          result.wide = cangjie['female'];
           break;
       }
     }
@@ -496,7 +496,7 @@ class Calendar {
     let _letters = [];
     let result = {
       word,
-      wide: cangjie[''],
+      wide: cangjie['predict'],
       web: []
     };
     
@@ -512,19 +512,19 @@ class Calendar {
     if (n.length >= 2) {
       switch(n[1]) {
         case 'value':
-          result.wide = cangjie[''];
+          result.wide = cangjie['day'];
           break;
 
         case 'function':
-          result.wide = cangjie[''];
+          result.wide = cangjie['disaster'];
           break;
 
         case 'behavior':
-          result.wide = cangjie[''];
+          result.wide = cangjie['day'];
           break;
 
         case 'result':
-          result.wide = cangjie[''];
+          result.wide = cangjie['field'];
           break;
       }
     }
@@ -536,7 +536,7 @@ class Calendar {
     let _letters = [];
     let result = {
       word,
-      wide: cangjie[''],
+      wide: cangjie['poeple'],
       web: []
     };
     
@@ -552,19 +552,19 @@ class Calendar {
     if (n.length >= 2) {
       switch(n[1]) {
         case 'value':
-          result.wide = cangjie[''];
+          result.wide = cangjie['ten'];
           break;
 
         case 'function':
-          result.wide = cangjie[''];
+          result.wide = cangjie['gold'];
           break;
 
         case 'behavior':
-          result.wide = cangjie[''];
+          result.wide = cangjie['big'];
           break;
 
         case 'result':
-          result.wide = cangjie[''];
+          result.wide = cangjie['field'];
           break;
       }
     }
@@ -576,7 +576,7 @@ class Calendar {
     let _letters = [];
     let result = {
       word,
-      wide: cangjie[''],
+      wide: cangjie['mouth'],
       web: []
     };
     
@@ -592,19 +592,19 @@ class Calendar {
     if (n.length >= 2) {
       switch(n[1]) {
         case 'value':
-          result.wide = cangjie[''];
+          result.wide = cangjie['fire'];
           break;
 
         case 'function':
-          result.wide = cangjie[''];
+          result.wide = cangjie['moon'];
           break;
 
         case 'behavior':
-          result.wide = cangjie[''];
+          result.wide = cangjie['bow'];
           break;
 
         case 'result':
-          result.wide = cangjie[''];
+          result.wide = cangjie['big'];
           break;
       }
     }
