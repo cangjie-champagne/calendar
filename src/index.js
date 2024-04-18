@@ -536,7 +536,7 @@ class Calendar {
     let _letters = [];
     let result = {
       word,
-      wide: cangjie['poeple'],
+      wide: cangjie['people'],
       web: []
     };
     
